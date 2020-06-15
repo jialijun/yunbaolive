@@ -7,3 +7,8 @@ gradlew processDebugManifest --stacktrace 查看详情
 这个需要装jdk1.8
 装完之后设置环境变量
 最终的解决办法是 把项目的最小sdk设置为15 之前是14
+
+直播的頁面 StartLiveActivity
+
+金山sdk git  
+https://github.com/ksvc/KSYStreamer_Android
